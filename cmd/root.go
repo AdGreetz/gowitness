@@ -8,10 +8,10 @@ import (
 	"time"
 
 	homedir "github.com/mitchellh/go-homedir"
-	chrm "github.com/sensepost/gowitness/chrome"
+	chrm "github.com/AdGreetz/gowitness/chrome"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/sensepost/gowitness/storage"
+	"github.com/AdGreetz/gowitness/storage"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

@@ -8,8 +8,8 @@ import (
 
 	"github.com/corona10/goimagehash"
 	"github.com/olekukonko/tablewriter"
-	"github.com/sensepost/gowitness/storage"
-	gwtmpl "github.com/sensepost/gowitness/template"
+	"github.com/AdGreetz/gowitness/storage"
+	gwtmpl "github.com/AdGreetz/gowitness/template"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 	"github.com/tidwall/buntdb"

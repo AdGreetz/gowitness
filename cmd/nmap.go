@@ -12,7 +12,7 @@ import (
 
 	"github.com/reconquest/barely"
 	"github.com/remeh/sizedwaitgroup"
-	"github.com/sensepost/gowitness/utils"
+	"github.com/AdGreetz/gowitness/utils"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 	"github.com/tomsteele/go-nmap"
